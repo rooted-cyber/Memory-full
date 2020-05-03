@@ -1,7 +1,7 @@
 import os
 os.system("bash .set.sh")
 def full():
-	os.system("bash .w.sh")
+	os.system("bash ~/Memory*/.w.sh")
 
 
 os.system("figlet Memory|toilet -f term -F gay")
