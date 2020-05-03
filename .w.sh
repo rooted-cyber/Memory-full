@@ -1,4 +1,4 @@
-~}w() {
+w() {
 	
 	while [ true ];do
 	cd /sdcard/Android/.storage
