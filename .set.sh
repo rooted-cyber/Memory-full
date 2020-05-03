@@ -10,6 +10,7 @@ function setup() {
 	echo "#!/data/data/com.termux/files/usr/bin/sh" >> mf
 	echo "cd ~/Memory-Full" >> mf
 	echo "python mem.py" >> mf
+chmod 777 mf
 	echo -e "\033[93m Now you can use : mf "
 	read
 	}
